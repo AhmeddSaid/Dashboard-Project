@@ -1047,6 +1047,7 @@ ul {
 /* Start Friends Page */
 .friends-page {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  margin-bottom: 10px;
 }
 @media (max-width: 767px) {
   .friends-page {
